@@ -14,7 +14,7 @@
 			<MagiskUrl
 				id="magisk"
 				title="Magisk"
-				description="Download latest version">https://sourceforge.net/projects/magisk/files/Magisk-v16.7.zip/download</MagiskUrl>
+				description="Download latest version">https://sourceforge.net/projects/magisk/files/Magisk-v17.1.zip/download</MagiskUrl>
 			<SignerUrl
 				id="signer"
 				title="Android Verified Boot"
@@ -22,7 +22,7 @@
 			<UninsUrl
 				id="uninstaller"
 				title="Magisk uninstaller"
-				description="Download latest uninstaller">https://sourceforge.net/projects/magisk/files/Magisk-uninstaller-20180719.zip/download</UninsUrl>
+				description="Download latest uninstaller">https://sourceforge.net/projects/magisk/files/Magisk-uninstaller-20180901.zip/download</UninsUrl>
 			<OpenGappsUrl
 				id="open_gapps"
 				title="Open GApps"
@@ -49,7 +49,7 @@
 			<MagiskUrl
 				id="magisk"
 				title="Magisk"
-				description="Download latest version">https://sourceforge.net/projects/magisk/files/Magisk-v16.7.zip/download</MagiskUrl>
+				description="Download latest version">https://sourceforge.net/projects/magisk/files/Magisk-v17.1.zip/download</MagiskUrl>
 			<SignerUrl
 				id="signer"
 				title="Android Verified Boot"
@@ -57,7 +57,7 @@
 			<UninsUrl
 				id="uninstaller"
 				title="Magisk uninstaller"
-				description="Download latest uninstaller">https://sourceforge.net/projects/magisk/files/Magisk-uninstaller-20180719.zip/download</UninsUrl>
+				description="Download latest uninstaller">https://sourceforge.net/projects/magisk/files/Magisk-uninstaller-20180901.zip/download</UninsUrl>
 			<OpenGappsUrl
 				id="open_gapps"
 				title="Open GApps"
@@ -84,7 +84,7 @@
 			<MagiskUrl
 				id="magisk"
 				title="Magisk"
-				description="Download latest version">https://sourceforge.net/projects/magisk/files/Magisk-v16.7.zip/download</MagiskUrl>
+				description="Download latest version">https://sourceforge.net/projects/magisk/files/Magisk-v17.1.zip/download</MagiskUrl>
 			<SignerUrl
 				id="signer"
 				title="Android Verified Boot"
@@ -92,7 +92,7 @@
 			<UninsUrl
 				id="uninstaller"
 				title="Magisk uninstaller"
-				description="Download latest uninstaller">https://sourceforge.net/projects/magisk/files/Magisk-uninstaller-20180719.zip/download</UninsUrl>
+				description="Download latest uninstaller">https://sourceforge.net/projects/magisk/files/Magisk-uninstaller-20180901.zip/download</UninsUrl>
 			<OpenGappsUrl
 				id="open_gapps"
 				title="Open GApps"
@@ -119,11 +119,11 @@
 			<MagiskUrl
 				id="magisk"
 				title="Magisk"
-				description="Download latest version">https://sourceforge.net/projects/magisk/files/Magisk-v16.7.zip/download</MagiskUrl>
+				description="Download latest version">https://sourceforge.net/projects/magisk/files/Magisk-v17.1.zip/download</MagiskUrl>
 			<UninsUrl
 				id="uninstaller"
 				title="Magisk uninstaller"
-				description="Download latest uninstaller">https://sourceforge.net/projects/magisk/files/Magisk-uninstaller-20180719.zip/download</UninsUrl>
+				description="Download latest uninstaller">https://sourceforge.net/projects/magisk/files/Magisk-uninstaller-20180901.zip/download</UninsUrl>
 			<OpenGappsUrl
 				id="open_gapps"
 				title="Open GApps"
